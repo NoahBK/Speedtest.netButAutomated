@@ -1,4 +1,6 @@
-<img src="https://i.vgy.me/moOYxF.png" alt="Speedtest.net, but automated (sorta)" width="400">
+<div align="center">
+  <img src="https://i.vgy.me/moOYxF.png" alt="Speedtest.net, but automated (sorta)" width="400">
+</div>
 
 # How it works (sorta)
 - Runs a speedtest on a randomized timer between 5 and 60 minutes
