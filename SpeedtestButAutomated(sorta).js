@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Speedtest.net, But Automated (sorta)
+// @name         Speedtest.net, But Automated (sorta).js
 // @author       NoahBK was the guy with the whip, ChatGPT is the one that was doing all the work and getting whipped, but only metaphorically
 // @namespace    https://speedtest.net
-// @version      3.2
+// @version      3.3
 // @description  Run Speedtest automatically at random intervals between 5 and 60 minutes.
 // @match        https://www.speedtest.net/*
 // @grant        none
