@@ -20,7 +20,7 @@ There shouldn't be any issues with this code, but if for whatever reason Speedte
   <summary>Oh, god. Click me more.</summary>
 
   <p><strong>What the button looks like:</strong></p>
-  <img src="https://i.vgy.me/Ob4iqg.png" alt="Button screenshot" />
+  <img src="https://i.vgy.me/QQsEIn.png" alt="Button screenshot" />
 
   <p><strong>What happens when you click it:</strong></p>
   <img src="https://i.vgy.me/XFLmoJ.gif" alt="Demonstration GIF" />
