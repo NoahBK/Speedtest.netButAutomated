@@ -27,10 +27,10 @@ There shouldn't be any issues with this code, but if for whatever reason Speedte
 </details>
 
 # Downloads
-[**Click me!**](https://github.com/NoahBK/Speedtest.netButAutomated/raw/refs/heads/main/SpeedtestButAutomated(sorta).js)
+[**Click me!**](https://gist.github.com/NoahBK/976661927d4f7d3146265713c32a97d9/raw/72f1596a8918fb5ee273a5141fb96d0de0deb7b5/SpeedtestButAutomated(sorta).user.js)
 
 # Installation
 - First, download [Violentmonkey](https://violentmonkey.github.io/get-it/)
-- Then, go to the Downloads section above and click the "[**Click me!**](https://github.com/NoahBK/Speedtest.netButAutomated/raw/refs/heads/main/SpeedtestButAutomated(sorta).js)" (or click hyperlink one in this section, they're the same thing)
+- Then, go to the Downloads section above and click the "[**Click me!**](https://gist.github.com/NoahBK/976661927d4f7d3146265713c32a97d9/raw/72f1596a8918fb5ee273a5141fb96d0de0deb7b5/SpeedtestButAutomated(sorta).user.js)" (or click hyperlink one in this section, they're the same thing)
 - Violentmonkey will display a "confirm Installation" button. Confirm the installation
 - Profit
